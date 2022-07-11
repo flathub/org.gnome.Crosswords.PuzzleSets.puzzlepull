@@ -20,7 +20,7 @@
                 {
                     "type" : "git",
                     "url" : "https://gitlab.gnome.org/jrb/puzzle-sets-puzzlepull.git",
-                    "tag" : "0.3.0"
+                    "commit" : "aaee6594"
                 }
             ],
             "post-install": [
