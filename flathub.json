@@ -1,3 +1,4 @@
 {
-  "end-of-life": "This application's functionality has been merged with the xword-dl PuzzleSet"
+    "skip-icons-check": true,
+    "end-of-life": "This application's functionality has been merged with the xword-dl PuzzleSet"
 }
